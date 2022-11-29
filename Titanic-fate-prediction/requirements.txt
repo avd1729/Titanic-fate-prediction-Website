@@ -1,0 +1,9 @@
+Flask
+gunicorn
+pandas
+seaborn
+matplotlib
+scikit-learn
+numpy
+pickle4
+sklearn
